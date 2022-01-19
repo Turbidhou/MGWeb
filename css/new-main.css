@@ -41,7 +41,7 @@ html {
     -webkit-font-smoothing: antialiased;
 }
 
-.content p, a, span {
+p, a, span {
     padding-left: 3em;
 }
 
