@@ -52,3 +52,9 @@ p, a, span {
     font-size: 25px;
     padding-bottom: 0em;
 }
+
+a {
+    color:inherit;
+    a:focus:rgb(0%, 80%, 80%);
+    a:unfocus:color:inherit;
+}
