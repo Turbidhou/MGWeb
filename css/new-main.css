@@ -56,5 +56,6 @@ p, span {
 a {
     color:inherit;
     a:focus:rgb(0%, 80%, 80%);
-    a:unfocus:color:inherit;
+    a:unfocus:inherit;
+    padding-left: 3em;
 }
